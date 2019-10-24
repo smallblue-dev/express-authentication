@@ -1,4 +1,4 @@
-Hi there. Here begins the project two journey for the Software Engineering Immersive course from General Assembly in Seattle, WA.
+Hi there. Here begins the project two journey for the Software Engineering Immersive course.
 
 My goal is to develop a care network messaging app. The premise is that a perspective user might need therapist advice, so they come to my site to find the therapists near them. Then message them.
 
